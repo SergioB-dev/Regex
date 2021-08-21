@@ -23,6 +23,6 @@ To bring it all together our final regex expression looks like `[a-zA-Z0-9]+@\.(
 
 Here is a nice [succint video](https://www.youtube.com/watch?v=UQQsYXa1EHs&list=PLKvIeC_eqQbU0ymnKF0QWHwGkSv80ob7Y&index=1) on using regex
 
-More examples to come.. 
+More examples to come... 
 
 
